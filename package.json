@@ -1,0 +1,21 @@
+{
+  "name": "tenjs",
+  "version": "1.0.0",
+  "description": "A library providing you with all numbers from 0 to 10.",
+  "main": "lib.js",
+  "keywords": [
+    "ten",
+    "numbers"
+  ],
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "BSh",
+  "license": "ISC",
+  "files": [
+    "./lib.js"
+  ],
+  "devDependencies": {
+    "jest": "^29.1.2"
+  }
+}
